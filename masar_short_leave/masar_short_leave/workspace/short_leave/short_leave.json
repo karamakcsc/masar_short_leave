@@ -1,0 +1,45 @@
+{
+ "charts": [],
+ "content": "[{\"id\":\"Urh-0jYEMq\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">Short Leave</span>\",\"col\":12}},{\"id\":\"BTE6cVMjnk\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Employee Short Leave Application\",\"col\":6}},{\"id\":\"lWOuYBJpwT\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Short Leave Ledger\",\"col\":6}}]",
+ "creation": "2025-01-01 16:22:26.236954",
+ "custom_blocks": [],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "",
+ "hide_custom": 0,
+ "icon": "color-review-points",
+ "idx": 0,
+ "indicator_color": "green",
+ "is_hidden": 0,
+ "label": "Short Leave",
+ "links": [],
+ "modified": "2025-01-01 16:24:49.474429",
+ "modified_by": "Administrator",
+ "module": "Masar Short Leave",
+ "name": "Short Leave",
+ "number_cards": [],
+ "owner": "Administrator",
+ "parent_page": "",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [],
+ "sequence_id": 42.0,
+ "shortcuts": [
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Employee Short Leave Application",
+   "link_to": "Employee Short Leave Application",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Short Leave Ledger",
+   "link_to": "Short Leave Ledger",
+   "type": "Report"
+  }
+ ],
+ "title": "Short Leave"
+}

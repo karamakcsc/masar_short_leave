@@ -86,7 +86,7 @@ class EmployeeShortLeaveApplication(Document):
                     )
 				return
 		if self.leave_duration and self.leave_duration <= 0 :
-			frappe.throw("Leave duration cannot be zero. Please enter a valid leave duration." , title=_("Missing Leave Duration"))
+			frappe.throw("Leave Duration cannot be zero. Please enter a valid leave duration." , title=_("Missing Leave Duration"))
 	def on_submit(self):
 		self.status_validation()
 		self.calculate_leave_application()
