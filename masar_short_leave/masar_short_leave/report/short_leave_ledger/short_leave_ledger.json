@@ -1,0 +1,28 @@
+{
+ "add_total_row": 0,
+ "columns": [],
+ "creation": "2024-12-26 17:06:49.169870",
+ "disabled": 0,
+ "docstatus": 0,
+ "doctype": "Report",
+ "filters": [],
+ "idx": 0,
+ "is_standard": "Yes",
+ "letter_head": "Trust international",
+ "letterhead": null,
+ "modified": "2024-12-26 17:07:32.611121",
+ "modified_by": "Administrator",
+ "module": "Masar Short Leave",
+ "name": "Short Leave Ledger",
+ "owner": "Administrator",
+ "prepared_report": 0,
+ "ref_doctype": "Employee Short Leave Application",
+ "report_name": "Short Leave Ledger",
+ "report_type": "Script Report",
+ "roles": [
+  {
+   "role": "System Manager"
+  }
+ ],
+ "timeout": 0
+}
